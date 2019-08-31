@@ -422,11 +422,19 @@ static void modify_event(int epollfd,int fd,int state){
 # 参考
 
 [用户空间与内核空间，进程上下文与中断上下文(总结)](http://www.cnblogs.com/Anker/p/3269106.html)
+
 [进程切换](http://guojing.me/linux-kernel-architecture/posts/process-switch/)
+
 [维基百科-文件描述符](https://zh.wikipedia.org/wiki/%E6%96%87%E4%BB%B6%E6%8F%8F%E8%BF%B0%E7%AC%A6)
+
 [Linux 中直接 I/O 机制的介绍](http://www.ibm.com/developerworks/cn/linux/l-cn-directio/)
+
 [IO - 同步，异步，阻塞，非阻塞 （亡羊补牢篇）](http://blog.csdn.net/historyasamirror/article/details/5778378)
+
 [Linux中select poll和epoll的区别](http://www.cnblogs.com/bigwangdi/p/3182958.html)
+
 [IO多路复用之select总结](http://www.cnblogs.com/Anker/archive/2013/08/14/3258674.html)
+
 [IO多路复用之poll总结](http://www.cnblogs.com/Anker/archive/2013/08/15/3261006.html)
+
 [IO多路复用之epoll总结](http://www.cnblogs.com/Anker/archive/2013/08/17/3263780.html)
